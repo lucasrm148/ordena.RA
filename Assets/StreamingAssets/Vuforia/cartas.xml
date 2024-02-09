@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marcador" size="457.500000 655.337830" />
+    <ImageTarget name="ALG_INSERT" size="152.000000 27.970943" />
+    <ImageTarget name="ALG_BURBLE" size="152.000000 27.769230" />
+    <ImageTarget name="carta_3" size="475.000000 578.781494" />
+    <ImageTarget name="carta_4" size="475.000000 576.000000" />
+    <ImageTarget name="carta_2" size="475.000000 575.000000" />
+    <ImageTarget name="carta_0" size="475.000000 575.000000" />
+    <ImageTarget name="carta_1" size="475.000000 580.000000" />
+  </Tracking>
+</QCARConfig>
